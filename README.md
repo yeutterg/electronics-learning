@@ -4,7 +4,7 @@ This repository contains various exercises for electronics courses and texts. It
 
 ## Courses
 
-* [MIT 6.002.1x](./MIT 6.002.1x): Circuits and Electronics 1: Basic Circuit Analysis ([Course Link](https://courses.edx.org/courses/course-v1:MITx+6.002.1x_1+2T2016/course/))
+* [MIT 6.002.1x](./MIT%206.002.1x): Circuits and Electronics 1: Basic Circuit Analysis ([Course Link](https://courses.edx.org/courses/course-v1:MITx+6.002.1x_1+2T2016/course/))
 
 ## Running the files
 
